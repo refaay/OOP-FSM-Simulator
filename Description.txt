@@ -1,0 +1,7 @@
+Ahmed Refaay
+900141806
+Assignment 2
+1) Attached is the class diagram for the simulator.
+2) The finite state machine simulator code is fully commented and provided in the .rar file.
+3) Sample test FSMs: fsmOne, fsmTwo, and fsmThree are also found in the .rar file.
+4) To use the simulator, just change the name of the fsm in the sourse.cpp file "Machine(<fsmName>).execute;" and attach the included machines' description files in the source codes' folder.

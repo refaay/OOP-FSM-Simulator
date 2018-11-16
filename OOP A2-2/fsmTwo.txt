@@ -1,0 +1,8 @@
+FSM fsmTwo
+VAR Z
+States:
+p: out "state A machine 2", sleep 1, run fsmOne, wait
+q: out "thank you for using fsmTwo", end
+Transitions:
+p, q, 1
+p, q, 2
